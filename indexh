@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <H1>Cwiczenia</H1>
+    <H2>Html5</H2>
+    <h3>lista
+        <Ul>
+            <li>Element Listy</li>
+            <li>Element Listy</li>
+            <li>Element Listy</li>
+            <li>Element Listy</li>
+            <li>Element Listy</li>
+        </Ul>
+    </h3>
+    <h4>linki<a href="http://"></a><a href="http://">
+        <a href="http://"></a></a></h4>
+
+    <h5><img src="IMG_0259" alt="Büren" srcset="2"></h5>
+    
+
+
+</body>
+</html>
